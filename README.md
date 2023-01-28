@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)]()
 <h1 align="center">Hi 👋, I'm Durgesh!</h1>
 <h3 align="center">A passionate Frontend developer and ML enthusiast from India.</h3>
-<img align="right" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
+<img align="right" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh-17&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh-17" /> </p>
 
